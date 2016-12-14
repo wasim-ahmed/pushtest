@@ -1,0 +1,5 @@
+
+class Again
+{
+	int x;
+};
