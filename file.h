@@ -5,4 +5,5 @@ class test
 		int a;
 		float f;
 		int b;
+		string name;
 };
